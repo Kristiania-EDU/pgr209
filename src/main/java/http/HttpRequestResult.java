@@ -1,7 +1,5 @@
 package http;
 
-import http.HttpMessage;
-
 import java.io.IOException;
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
